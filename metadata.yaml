@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '42925'
     url: http://www.gutenberg.org/2009/agents/42925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45868#Buffon-s-Natural-History.-Volume-X--of-10--amp-c.--amp-c
 gutenberg_issued: '2014-06-03'
 gutenberg_type: Text
 identifiers:
