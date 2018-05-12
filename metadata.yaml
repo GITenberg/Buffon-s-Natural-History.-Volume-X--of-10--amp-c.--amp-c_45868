@@ -1,0 +1,36 @@
+_repo: Buffon-s-Natural-History.-Volume-X--of-10--amp-c.--amp-c_45868
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45868-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Buffon, Georges Louis Leclerc, comte de
+    aliases:
+    - Leclerc, Georges Louis, comte de Buffon
+    - Buffon, M. le comte de
+    birthdate: 1707
+    deathdate: 1788
+    gutenberg_agent_id: '42924'
+    url: http://www.gutenberg.org/2009/agents/42924
+  editor:
+    agent_name: Barr, James Smith
+    alias: Barr, J. S. (James Smith)
+    gutenberg_agent_id: '42925'
+    url: http://www.gutenberg.org/2009/agents/42925
+description: ''
+gutenberg_issued: '2014-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcc 'QH'
+title: "Buffon's Natural History. Volume 10 (of 10)\r\nContaining a Theory of the\
+  \ Earth, a General History of Man, of the Brute Creation, and of Vegetables, Minerals,\
+  \ &c. &c"
+url: http://www.gutenberg.org/ebooks/45868
